@@ -34,3 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          mkdir -p src/{components,hooks,lib,pages,types,utils}
+mkdir -p supabase/{migrations,functions}
+mkdir -p .github/workflows
+mkdir -p docs
