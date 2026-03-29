@@ -1,2 +1,3 @@
-# -lendcircle-ai-platform-
- "AI-powered P2P lending platform with Supabase backend"
+# LendCircle AI Platform
+
+This repository has been initialized. Additional project structure, code, and documentation will be added soon.
